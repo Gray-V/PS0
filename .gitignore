@@ -1,0 +1,26 @@
+# Ignore Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore virtual environment directories
+env/
+venv/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore other backup or system files
+*.bak
+*.swp
