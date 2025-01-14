@@ -67,6 +67,6 @@ def test_friday_folder():
     check_files_in_folder("Friday", ["Jaws.png"])
 
 def test_no_extra_folders():
-    correct_structure = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"}
+    correct_structure = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"}
     check_no_extra_folders(correct_structure)
 
