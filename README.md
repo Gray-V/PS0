@@ -3,8 +3,8 @@
 
 ## Important Dates
 
- - Released: 2025-01-15 at 12:00 am [PT]
- - Deadline: 2025-01-29 at 11:59 pm [PT]
+ - Released: 2025-08-27 at 12:00 am [PT]
+ - Deadline: 2025-09-11 at 11:59 pm [PT]
 
 ## Learning Objectives
 
@@ -24,7 +24,7 @@ Students may collaborate by talking to each other or helping each other, but the
 
 ## Reading and Questions
 
-Check Brightspace for Written Questions
+Use the Multiple Choice MD for Written Questions
 
 __________________________________
 
@@ -74,7 +74,7 @@ For example, if the movie `The Matrix` is playing on Monday and Tuesday, you wil
 | Writing your name! | 5 points |
 | Q1 Hello World! | 15 points |
 | Q2 Movie Mixup| 30 points |
-| Q3 Brightspace Questions | 15 points |
+| Q3 Multiple Choice Questions | 15 points |
 | Q4 UFO | 30 points  |
 | **Total** | 100 points |
 
